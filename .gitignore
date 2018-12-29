@@ -1,0 +1,8 @@
+# Exclude data from source control
+/data/
+# Exclude not longer useful files
+/useless/
+# Exclude VSCode settings from source control
+/.vscode/
+# Exclude notebook checkpoints from source control
+/.ipynb_checkpoints/
